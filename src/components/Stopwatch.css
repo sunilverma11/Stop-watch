@@ -1,0 +1,53 @@
+body {   
+    background-color: maroon;  
+}
+
+
+.linkStyle {
+  color: white;
+  width: 330px;
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+  background-color:black;
+  height: 570px;
+  margin: auto;
+  margin-top: 4%;
+  border: 3px double lightgray ;
+  border-radius: 10px;
+}
+.heading {
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 18px;
+}
+.btnStart {
+  background-color: red;
+  color: white;
+  margin: auto;
+  border-radius: 60%;
+  border: none;
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+  width: 70px;
+  height: 70px;
+  margin-top: 16%;
+}
+.timeStamp {
+  /* border:1px solid white; */
+  margin: auto;
+  padding: 30px;
+  height: 50px;
+  width: 60%;
+  margin-top: 25%;
+  font-size: 35pt;
+}
+.FontAwesomeIcon {
+  font-size: 23px;
+}
+#stopBtn {
+  margin-left: 50px;
+}
+.footerTag {
+  color: lightgray;
+  float: top;
+  padding-right: 30px;
+}
